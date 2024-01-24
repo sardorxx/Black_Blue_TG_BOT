@@ -412,9 +412,8 @@ def fun_com():
         *[
 
             KeyboardButton(text="📸Virtual Travel", web_app=WebAppInfo(url="https://www.instantstreetview.com/")),
-            KeyboardButton(text="AI Chat", web_app=WebAppInfo(url="https://www.bing.com/search?sho"
-                                                                  "wconv=1&q=bing%20AI&sf=codex3p&form=MA13FV")),
-            KeyboardButton(text="Yandex GPT", web_app=WebAppInfo(url='https://yandex.ru/search/?clid=2353835'
+            KeyboardButton(text="ChatGPT", web_app=WebAppInfo(url="https://chat.openai.com/")),
+            KeyboardButton(text="Yandex Browser", web_app=WebAppInfo(url='https://yandex.ru/search/?clid=2353835'
                                                                      '&text=&lr=194600')),
             KeyboardButton(text="🔙Back to Medias"),
         ]
